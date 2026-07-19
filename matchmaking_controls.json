@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "bucketId": "55046785:1:NAE:playlist_habanero_sunflower_duos",
-  "playlist": "playlist_habanero_sunflower_duos",
+  "bucketId": "55046785:1:NAE:playlist_habanero_sunflower_squads",
+  "playlist": "playlist_habanero_sunflower_squads",
   "overridePlaylistEnabled": true,
-  "overridePlaylist": "playlist_habanero_sunflower_duos",
+  "overridePlaylist": "playlist_habanero_sunflower_squads",
   "matchmakingServiceEnabled": true,
   "matchmakingService": "MCP",
   "islandCode": "",
