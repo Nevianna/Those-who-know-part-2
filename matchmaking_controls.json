@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "bucketId": "56183233:1:NAE:playlist_defaultduo",
-  "playlist": "playlist_defaultduo",
+  "bucketId": "56183233:1:NAE:Playlist_DefaultSquad",
+  "playlist": "Playlist_DefaultSquad",
   "overridePlaylistEnabled": true,
-  "overridePlaylist": "playlist_defaultduo",
+  "overridePlaylist": "Playlist_DefaultSquad",
   "matchmakingServiceEnabled": true,
   "matchmakingService": "MCP",
   "islandCode": "",
