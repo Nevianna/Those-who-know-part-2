@@ -2,6 +2,7 @@
   "enabled": true,
   "bucketId": "56183233:1:NAE:playlist_defaultsquad",
   "playlist": "playlist_defaultsquad",
+  "fillTeam": "false",
   "overridePlaylistEnabled": true,
   "overridePlaylist": "playlist_defaultsquad",
   "matchmakingServiceEnabled": true,
