@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "bucketId": "56183233:1:NAE:playlist_defaultsquad",
+  "bucketId": "56443220:1:NAE:playlist_defaultsquad",
   "playlist": "playlist_defaultsquad",
   "fillTeam": "false",
   "overridePlaylistEnabled": true,
@@ -9,6 +9,6 @@
   "matchmakingService": "MCP",
   "islandCode": "",
   "linkCode": "",
-  "buildId": "56183233",
+  "buildId": "56443220",
   "hotfixId": "1"
 }
